@@ -1,0 +1,11 @@
+.cen{
+    display: flex;
+    justify-content: center;
+}
+.line-bor{
+    border-right: 1px solid white;
+}
+.learn-con{
+    background-color: #32345b;
+    padding: 0 7rem 2rem 7rem;
+}

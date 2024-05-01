@@ -1,0 +1,32 @@
+
+.bor{
+    background-color:#32345b;
+    border-radius: 3rem 0 3rem 3rem; 
+    padding: 2rem;
+}
+.para{
+    line-height: 1.8;
+}
+.tit-bold{
+    font-weight:bolder;
+}
+
+.che{
+    font-size: 14px;
+    line-height: 1.8;
+}
+.application{
+   background-color:  #3dcbb1; 
+}
+.li-con{
+    font-size: 20px;
+}
+.icon{
+    font-size: 5rem;
+}
+.year-para{
+    padding-left: 5rem;
+}
+.btn{
+    background-color: #32345b;
+}

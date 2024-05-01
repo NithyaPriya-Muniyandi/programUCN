@@ -1,0 +1,24 @@
+.back{
+    background-color: rgb(225, 249, 255);
+    width: 100vw;
+    height:auto;
+    max-width: 100rem;
+}
+.ico{
+    height: 100px;
+    width: 100px;
+}
+button{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+}
+.bor{
+    border: none;
+
+}
+.bu-center{
+    display: flex;
+    justify-content: center;
+}

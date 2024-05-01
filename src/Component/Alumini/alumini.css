@@ -1,0 +1,16 @@
+.alu-back{
+    background-color: #3dcbb1 ;
+}
+h2{
+    font-weight: bolder;
+    margin-bottom: 2rem;
+}
+.cen{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+img{
+    height: 130px;
+    width:200px;
+}

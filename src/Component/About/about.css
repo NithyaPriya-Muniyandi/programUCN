@@ -1,0 +1,75 @@
+#about{
+    height: 95vh;
+    width: 100vw;
+    max-width: 100rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0px 15px 5px rgba(95, 95, 95, 0.753);
+} 
+.bgBlueImg {
+    background-image: url('./../../Picture/BackGround-Img.webp'); 
+    background-size:cover;
+    background-position: center;
+    z-index: -2;
+
+  }
+  .introPara{
+    z-index: 1;
+  }
+.introText{
+    color: #32345b;
+    font-size: 4rem;
+    text-shadow: 0px 4px 5px rgba(95, 95, 95, 0.861);
+    z-index: 1;
+}
+
+.doc-img{
+    position: absolute;
+    top: 8rem;
+    right: 5rem;
+    z-index: 0;
+    object-fit:fill;
+    height: 35rem;
+    width:auto;
+}
+.introContent{
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    left: 5rem;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.introPara{
+    font-size: 28px;
+    font-weight: bold;
+    /* letter-spacing: 1px; */
+}
+.butt{
+    font-size: 18px;
+}
+
+
+@media screen and (max-width:840px){
+    .bg-img{
+        right: -10vw;
+    }
+    .introContent{
+        font-size: 8vw;
+    }
+    .hello{
+        font-size: 4.5vw;
+    }
+} 
+@media screen and (max-width:480px){
+    .bg-img{
+        right: -20vw;
+        
+    }
+
+} 

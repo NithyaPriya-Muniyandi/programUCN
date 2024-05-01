@@ -1,0 +1,22 @@
+.benefit-img{
+    height: 550px;
+    width: 600px;
+    border-radius: 5rem 0rem 5rem 5rem;
+}
+.benefit-heading{
+    font-weight: bolder;
+}
+.conten{
+    display: flex;
+    align-items: center;
+}
+.benefit-para{
+    font-size: 20px;
+}
+.listt{
+    font-size: 30px;
+    color: #32345b;
+}
+.benefits-down{
+    margin-top: 5rem;
+}
